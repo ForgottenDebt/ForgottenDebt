@@ -1,5 +1,4 @@
-pro retard
-Forgotten#0087
+contact: Forgotten#0087
 
 <!---
 ForgottenDebt/ForgottenDebt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
